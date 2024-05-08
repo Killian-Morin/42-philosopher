@@ -41,7 +41,7 @@ The program takes 4 parameters and an optional one: <br>
   - the time to sleep (in millseconds)
   - (optional) the number of meal each philosophers must eat to stop the simulation
 
-Once the simulation is started, at each action the corresponding message is on the prompt
+Once the simulation is started, at each action a corresponding message is sent to the terminal running the simulation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
